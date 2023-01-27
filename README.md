@@ -1,1 +1,1 @@
-# ai-detyra2
+# ai-detyra2-Astar
